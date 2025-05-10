@@ -1,0 +1,18 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 15,
+    "workbench.colorTheme":"GitHub Dark Dimmed",",
+    "workbench.iconTheme":"material-icon-theme",
+    "editor.quickSuggestions": {
+  "other": true,
+  "comments": true,
+  "strings": true
+},
+"python.languageServer": "Pylance",
+"editor.suggestOnTriggerCharacters": true,
+"editor.suggest.showWords": true
+
+  
+
+
+}
